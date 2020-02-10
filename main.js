@@ -22,3 +22,9 @@ newLi.innerText = "Won't get fooled again.";
 list.appendChild(newLi);
 newLi.id = "item-16";
 newLi.class = "item";
+
+const newImage = document.createElement('img');
+newImage.src = "https://officialpsds.com/imageview/ry/y9/ryy94z_large.png";
+newImage.style.height = "300px";
+div = document.querySelector('div');
+div.appendChild(newImage);
