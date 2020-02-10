@@ -1,5 +1,5 @@
 const paragraph = document.getElementsByTagName("p")[0];
-paragraph.style.color = "cyan";
+paragraph.style.color = "lightblue";
 
 const heading = document.getElementsByTagName("h1")[0];
 heading.style.fontSize = "5em";
